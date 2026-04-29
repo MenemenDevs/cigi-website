@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/version",
+      "destination": "/version.json"
+    }
+  ]
+}
